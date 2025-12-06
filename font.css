@@ -53,3 +53,10 @@ font-weight: 700;
 font-style: normal;
 src:url('ha1mini/NanumGothicBold.woff2') format('woff2'); }
 
+
+/* 흑백 이모지 */
+@font-face {
+font-family: "NotoEmojiMono";
+font-style: normal;
+font-weight: 400;
+src: url("https://ghtlt8460.github.io/webfont/font/NotoEmoji-Regular.woff2") format("woff2"); }
