@@ -25,6 +25,12 @@ font-weight: 700;
 font-style: normal;
 src:url('ha1mini/NanumBarunGothicBold.woff2') format('woff2'); }
 
+@font-face {
+font-family: "NanumBarunGothicLight";
+font-weight: 300;
+font-style: normal;
+src:url('ha1mini/NanumBarunGothicLight.woff2') format('woff2'); }
+
 
 /* 나눔 바른 고딕 옛한글 */
 @font-face {
