@@ -1,4 +1,4 @@
-/* KoPubBatangMedium */
+/* 코펍 바탕 */
 @font-face {
 font-family: "KoPubBatangMedium";
 font-weight: 500;
@@ -12,7 +12,7 @@ font-style: normal;
 src: url('ha1mini/KoPubBatangBold.woff2') format('woff2'); }
 
 
-/* Nanum Barun Gothic */
+/* 나눔 바른 고딕 */
 @font-face {
 font-family: "NanumBarunGothic";
 font-weight: 400;
@@ -26,7 +26,7 @@ font-style: normal;
 src:url('ha1mini/NanumBarunGothicBold.woff2') format('woff2'); }
 
 
-/* Nanum Barun Gothic YetHangul */
+/* 나눔 바른 고딕 옛한글 */
 @font-face {
 font-family: "NanumBarunGothicYH";
 font-weight: 400;
@@ -34,7 +34,7 @@ font-style: normal;
 src:url('ha1mini/NanumBarunGothic-YetHangul.woff2') format('woff2'); }
 
 
-/* Nanum Gothic */
+/* 나눔 고딕 */
 @font-face {
 font-family: "NanumGothic";
 font-weight: 400;
