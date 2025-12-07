@@ -1,9 +1,9 @@
 /* 코펍 바탕 */
 @font-face {
-font-family: "KoPubBatangMedium";
+font-family: "KoPubBatang";
 font-weight: 500;
 font-style: normal;
-src:url('ha1mini/KoPubBatangMedium.woff2') format('woff2'); }
+src:url('ha1mini/KoPubBatang.woff2') format('woff2'); }
 
 @font-face {
 font-family: "KoPubBatangBold";
