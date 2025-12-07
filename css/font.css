@@ -3,13 +3,7 @@
 font-family: "KoPubBatang";
 font-weight: 500;
 font-style: normal;
-src:url('ha1mini/KoPubBatang.woff2') format('woff2'); }
-
-@font-face {
-font-family: "KoPubBatangBold";
-font-weight: 700;
-font-style: normal;
-src: url('ha1mini/KoPubBatangBold.woff2') format('woff2'); }
+src:url('../Fontmoueum/godikbatang/KoPubBatang.woff2') format('woff2'); }
 
 
 /* 나눔 바른 고딕 */
@@ -17,19 +11,19 @@ src: url('ha1mini/KoPubBatangBold.woff2') format('woff2'); }
 font-family: "NanumBarunGothic";
 font-weight: 400;
 font-style: normal;
-src:url('ha1mini/NanumBarunGothic.woff2') format('woff2'); }
+src:url('../Fontmoueum/godikbatang/NanumBarunGothic.woff2') format('woff2'); }
 
 @font-face {
 font-family: "NanumBarunGothicBold";
 font-weight: 700;
 font-style: normal;
-src:url('ha1mini/NanumBarunGothicBold.woff2') format('woff2'); }
+src:url('../Fontmoueum/godikbatang/NanumBarunGothicBold.woff2') format('woff2'); }
 
 @font-face {
 font-family: "NanumBarunGothicLight";
 font-weight: 300;
 font-style: normal;
-src:url('ha1mini/NanumBarunGothicLight.woff2') format('woff2'); }
+src:url('../Fontmoueum/godikbatang/NanumBarunGothicLight.woff2') format('woff2'); }
 
 
 /* 나눔 바른 고딕 옛한글 */
@@ -37,7 +31,7 @@ src:url('ha1mini/NanumBarunGothicLight.woff2') format('woff2'); }
 font-family: "NanumBarunGothicYH";
 font-weight: 400;
 font-style: normal;
-src:url('ha1mini/NanumBarunGothic-YetHangul.woff2') format('woff2'); }
+src:url('../Fontmoueum/godikbatang/NanumBarunGothic-YetHangul.woff2') format('woff2'); }
 
 
 /* 나눔 고딕 */
@@ -45,10 +39,10 @@ src:url('ha1mini/NanumBarunGothic-YetHangul.woff2') format('woff2'); }
 font-family: "NanumGothic";
 font-weight: 400;
 font-style: normal;
-src:url('ha1mini/NanumGothic.woff2') format('woff2'); }
+src:url('../Fontmoueum/godikbatang/NanumGothic.woff2') format('woff2'); }
 
 @font-face {
 font-family: "NanumGothicBold";
 font-weight: 700;
 font-style: normal;
-src:url('ha1mini/NanumGothicBold.woff2') format('woff2'); }
+src:url('../Fontmoueum/godikbatang/NanumGothicBold.woff2') format('woff2'); }
