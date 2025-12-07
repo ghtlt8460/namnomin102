@@ -3,7 +3,13 @@
 font-family: "KoPubBatang";
 font-weight: 500;
 font-style: normal;
-src:url('../Fontmoueum/godikbatang/KoPubBatang.woff2') format('woff2'); }
+src:url('../Fontmoueum/Godikbatang/KoPubBatang.woff2') format('woff2'); }
+
+@font-face {
+font-family: "KoPubBatangBold";
+font-weight: 700;
+font-style: normal;
+src:url('../Fontmoueum/Godikbatang/KoPubBatangBold.woff2') format('woff2'); }
 
 
 /* 나눔 바른 고딕 */
@@ -11,19 +17,19 @@ src:url('../Fontmoueum/godikbatang/KoPubBatang.woff2') format('woff2'); }
 font-family: "NanumBarunGothic";
 font-weight: 400;
 font-style: normal;
-src:url('../Fontmoueum/godikbatang/NanumBarunGothic.woff2') format('woff2'); }
+src:url('../Fontmoueum/Godikbatang/NanumBarunGothic.woff2') format('woff2'); }
 
 @font-face {
 font-family: "NanumBarunGothicBold";
 font-weight: 700;
 font-style: normal;
-src:url('../Fontmoueum/godikbatang/NanumBarunGothicBold.woff2') format('woff2'); }
+src:url('../Fontmoueum/Godikbatang/NanumBarunGothicBold.woff2') format('woff2'); }
 
 @font-face {
 font-family: "NanumBarunGothicLight";
 font-weight: 300;
 font-style: normal;
-src:url('../Fontmoueum/godikbatang/NanumBarunGothicLight.woff2') format('woff2'); }
+src:url('../Fontmoueum/Godikbatang/NanumBarunGothicLight.woff2') format('woff2'); }
 
 
 /* 나눔 바른 고딕 옛한글 */
@@ -31,7 +37,7 @@ src:url('../Fontmoueum/godikbatang/NanumBarunGothicLight.woff2') format('woff2')
 font-family: "NanumBarunGothicYH";
 font-weight: 400;
 font-style: normal;
-src:url('../Fontmoueum/godikbatang/NanumBarunGothic-YetHangul.woff2') format('woff2'); }
+src:url('../Fontmoueum/Godikbatang/NanumBarunGothic-YetHangul.woff2') format('woff2'); }
 
 
 /* 나눔 고딕 */
@@ -39,10 +45,10 @@ src:url('../Fontmoueum/godikbatang/NanumBarunGothic-YetHangul.woff2') format('wo
 font-family: "NanumGothic";
 font-weight: 400;
 font-style: normal;
-src:url('../Fontmoueum/godikbatang/NanumGothic.woff2') format('woff2'); }
+src:url('../Fontmoueum/Godikbatang/NanumGothic.woff2') format('woff2'); }
 
 @font-face {
 font-family: "NanumGothicBold";
 font-weight: 700;
 font-style: normal;
-src:url('../Fontmoueum/godikbatang/NanumGothicBold.woff2') format('woff2'); }
+src:url('../Fontmoueum/Godikbatang/NanumGothicBold.woff2') format('woff2'); }
