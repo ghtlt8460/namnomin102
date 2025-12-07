@@ -1,4 +1,4 @@
-/* 나눔 바른 고딕 */
+#나눔 바른 고딕
 
 @font-face { font-family: "NanumBarunGothic", sans-serif; }
 
@@ -8,7 +8,7 @@
 
 
 
-/* 나눔 바른 고딕 옛한글 */
+#나눔 바른 고딕 옛한글
 
 @font-face { font-family: "NanumBarunGothicYH", sans-serif; }
 
