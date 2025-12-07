@@ -1,24 +1,24 @@
 @import url("https://ghtlt8460.github.io/namnomin102/css/songeulssi.css");
 
 /*손글씨*/
-{ font-family: "MaruBuriRegular"; /*마루부리*/ }
-{ font-family: "RIDIBatang"; /*리디바탕*/ }
 { font-family: "KimNamyun"; /*김남윤*/ }
+{ font-family: "RIDIBatang"; /*리디바탕*/ }
+{ font-family: "MaruBuriRegular"; /*마루부리*/ }
 
-{ font-family: "NanumBeeunhye"; /*나눔 배은혜*/ }
-{ font-family: "NanumDoingwell"; /*나눔 잘하고있어*/ }
-{ font-family: "NanumFirefighter"; /*나눔 소방관의기도*/ }
-{ font-family: "NanumGothicGoding"; /*나눔 고딕고딩*/ }
-{ font-family: "NanumGrandma"; /*나눔 외할머니*/ }
-{ font-family: "NanumHandletter"; /*나눔 손편지*/ }
-{ font-family: "NanumKimjuim"; /*나눔 야근김주임*/ }
-{ font-family: "NanumLefthanded"; /*나눔 왼손잡이*/ }
 { font-family: "NanumTreegarden"; /*나눔 나무정원*/ }
+{ font-family: "NanumKimjuim"; /*나눔 야근김주임*/ }
+{ font-family: "NanumGrandma"; /*나눔 외할머니*/ }
+{ font-family: "NanumFirefighter"; /*나눔 소방관의기도*/ }
 { font-family: "NanumUnggungqui"; /*나눔 엉겅퀴*/ }
+{ font-family: "NanumHandletter"; /*나눔 손편지*/ }
+{ font-family: "NanumLefthanded"; /*나눔 왼손잡이*/ }
+{ font-family: "NanumDoingwell"; /*나눔 잘하고있어*/ }
+{ font-family: "NanumBeeunhye"; /*나눔 배은혜*/ }
+{ font-family: "NanumGothicGoding"; /*나눔 고딕고딩*/ }
 
-{ font-family: "OngleipYoonwoo"; /*온글잎 윤우*/ }
 { font-family: "OngleipMugung"; /*온글잎 무궁*/ }
 { font-family: "OngleipScienceWeak"; /*온글잎 안될과학약*/ }
+{ font-family: "OngleipYoonwoo"; /*온글잎 윤우*/ }
 
 { font-family: "UhBeeddolyoung"; /*어비 똘영*/ }
 { font-family: "UhBeeDDOYO"; /*어비 또요*/ }
