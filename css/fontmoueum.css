@@ -1,5 +1,6 @@
 /* Fontmoueum, css 전체 통합 */
-@import url("https://ghtlt8460.github.io/nammoon102/css/goedam.css");
-@import url("https://ghtlt8460.github.io/nammoon102/css/songeulssi.css");
-@import url("https://ghtlt8460.github.io/nammoon102/css/godikbatang.css");
+
+@import url("goedam.css");
+@import url("songeulssi.css");
+@import url("godikbatang.css");
 
