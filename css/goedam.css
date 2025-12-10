@@ -146,6 +146,11 @@ src: url('../Fontmoueum/Goedam/SolmoeKimdaegeonM.woff2') format('woff2'); }
 font-family: "SunBatangL";
 src: url('../Fontmoueum/Goedam/SunBatangL.woff2') format('woff2'); }
 
+/* 스위트 */
+@font-face {
+font-family: "SUITE-Medium";
+src: url('../Fontmoueum/Goedam/SUITE-Medium.woff2') format('woff2'); }
+
 /* 인천교육시민체 */
 @font-face {
 font-family: "IncheonGyoyuksimin";
