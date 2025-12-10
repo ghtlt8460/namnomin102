@@ -166,24 +166,6 @@ src: url('../Fontmoueum/Goedam/NanumGalmaetgeul.woff2') format('woff2'); }
 font-family: "NanumMyeongjo";
 src: url('../Fontmoueum/Goedam/NanumMyeongjo.woff2') format('woff2'); }
 
-/* 본고딕 300 */
-@font-face {
-font-family: "NotoSansKR300";
-font-weight: 300;
-src: url('../Fontmoueum/Goedam/NotoSansKR300.woff2') format('woff2'); }
-
-/* 본고딕 500 */
-@font-face {
-font-family: "NotoSansKR500";
-font-weight: 500;
-src: url('../Fontmoueum/Goedam/NotoSansKR500.woff2') format('woff2'); }
-
-/* 본고딕 700 */
-@font-face {
-font-family: "NotoSansKR700";
-font-weight: 700;
-src: url('../Fontmoueum/Goedam/NotoSansKR700.woff2') format('woff2'); }
-
 /* 평창체 */
 @font-face {
 font-family: "PyeongchangB";
