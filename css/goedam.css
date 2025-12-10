@@ -63,8 +63,8 @@ src: url('../Fontmoueum/Goedam/GabiaMaeumgyeol.woff2') format('woff2'); }
 
 /* 고운돋움 */
 @font-face {
-font-family: "GowunBatangR";
-src: url('../Fontmoueum/Goedam/GowunBatangR.woff2') format('woff2'); }
+font-family: "GowunDodumR";
+src: url('../Fontmoueum/Goedam/GowunDodumR.woff2') format('woff2'); }
 
 /* 경기천년바탕체 */
 @font-face {
