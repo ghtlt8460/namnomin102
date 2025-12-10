@@ -81,9 +81,19 @@ src: url('../Fontmoueum/Goedam/HangeulJaemin.woff2') format('woff2'); }
 font-family: "HSBombaram30R";
 src: url('../Fontmoueum/Goedam/HSBombaram30R.woff2') format('woff2'); }
 
-/* IBM Plex Sans */
+/* IBM Plex Sans 300 */
 @font-face {
-font-family: "IBMPlexSansKR-M";
+font-family: "IBMPlexSansKR300";
+src: url('../Fontmoueum/Goedam/IBMPlexSansKR-M.woff2') format('woff2'); }
+
+/* IBM Plex Sans 400 */
+@font-face {
+font-family: "IBMPlexSansKR400";
+src: url('../Fontmoueum/Goedam/IBMPlexSansKR-M.woff2') format('woff2'); }
+
+/* IBM Plex Sans 500 */
+@font-face {
+font-family: "IBMPlexSansKR500";
 src: url('../Fontmoueum/Goedam/IBMPlexSansKR-M.woff2') format('woff2'); }
 
 /* 인천교육시민체 */
