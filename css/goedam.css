@@ -10,21 +10,21 @@ src: url('../Fontmoueum/Goedam/HSBombaram30R.woff2') format('woff2'); }
 font-family: "IBMPlexSansKR300";
 font-weight: 300;
 font-style: normal;
-src: url('../Fontmoueum/Goedam/IBMPlexSansKR300".woff2') format('woff2'); }
+src: url('../Fontmoueum/Goedam/IBMPlexSansKR300.woff2') format('woff2'); }
 
 /* IBM Plex Sans 400 */
 @font-face {
 font-family: "IBMPlexSansKR400";
 font-weight: 400;
 font-style: normal;
-src: url('../Fontmoueum/Goedam/IBMPlexSansKR400".woff2') format('woff2'); }
+src: url('../Fontmoueum/Goedam/IBMPlexSansKR400.woff2') format('woff2'); }
 
 /* IBM Plex Sans 500 */
 @font-face {
 font-family: "IBMPlexSansKR500";
 font-weight: 500;
 font-style: normal;
-src: url('../Fontmoueum/Goedam/IBMPlexSansKR500".woff2') format('woff2'); }
+src: url('../Fontmoueum/Goedam/IBMPlexSansKR500.woff2') format('woff2'); }
 
 /* KCC안창호체 */
 @font-face {
