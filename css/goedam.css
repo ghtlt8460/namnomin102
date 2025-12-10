@@ -28,6 +28,7 @@ src: url('../Fontmoueum/Goedam/DungGeunMo.woff2') format('woff2'); }
 /* 프리젠테이션 200 */
 @font-face {
 font-family: "Freesentation200";
+font-weight: 200;
 src: url('../Fontmoueum/Goedam/Freesentation200.woff2') format('woff2'); }
 
 /* 가비아 고스란체 */
@@ -168,16 +169,19 @@ src: url('../Fontmoueum/Goedam/NanumMyeongjo.woff2') format('woff2'); }
 /* 본고딕 300 */
 @font-face {
 font-family: "NotoSansKR300";
+font-weight: 300;
 src: url('../Fontmoueum/Goedam/NotoSansKR300.woff2') format('woff2'); }
 
 /* 본고딕 500 */
 @font-face {
 font-family: "NotoSansKR500";
+font-weight: 500;
 src: url('../Fontmoueum/Goedam/NotoSansKR500.woff2') format('woff2'); }
 
 /* 본고딕 700 */
 @font-face {
 font-family: "NotoSansKR700";
+font-weight: 700;
 src: url('../Fontmoueum/Goedam/NotoSansKR700.woff2') format('woff2'); }
 
 /* 평창체 */
@@ -198,21 +202,25 @@ src: url('../Fontmoueum/Goedam/SunBatangM.woff2') format('woff2'); }
 /* 프리텐다드 고딕 300 */
 @font-face {
 font-family: "Pretendard300";
+font-weight: 300;
 src: url('../Fontmoueum/Goedam/Pretendard300.woff2') format('woff2'); }
 
 /* 프리텐다드 고딕 400 */
 @font-face {
 font-family: "Pretendard400";
+font-weight: 400;
 src: url('../Fontmoueum/Goedam/Pretendard400.woff2') format('woff2'); }
 
 /* 프리텐다드 고딕 500 */
 @font-face {
 font-family: "Pretendard500";
+font-weight: 500;
 src: url('../Fontmoueum/Goedam/Pretendard500.woff2') format('woff2'); }
 
 /* 프리텐다드 고딕 700 */
 @font-face {
 font-family: "Pretendard700";
+font-weight: 700;
 src: url('../Fontmoueum/Goedam/Pretendard700.woff2') format('woff2'); }
 
 /* 태나다체 */
