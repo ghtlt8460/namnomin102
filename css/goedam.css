@@ -145,13 +145,6 @@ font-weight: 500;
 font-style: normal;
 src: url('../Fontmoueum/Goedam/NotoSansKR-Medium.woff2') format('woff2'); }
 
-/* 본고딕 700 */
-@font-face {
-font-family: "NotoSansKR-Bold";
-font-weight: 700;
-font-style: normal;
-src: url('../Fontmoueum/Goedam/NotoSansKR-Bold.woff2') format('woff2'); }
-
 /* 산하엽 */
 @font-face {
 font-family: "Sanhayeop";
