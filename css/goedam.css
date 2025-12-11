@@ -141,7 +141,7 @@ src: url('../Fontmoueum/Goedam/NotoSansKR-Light.woff2') format('woff2'); }
 /* 본고딕 400 */
 @font-face {
 font-family: "NotoSansKR-Regular";
-font-weight: 00;
+font-weight: 400;
 font-style: normal;
 src: url('../Fontmoueum/Goedam/NotoSansKR-Regular.woff2') format('woff2'); }
 
