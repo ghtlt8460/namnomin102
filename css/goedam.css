@@ -259,15 +259,3 @@ src: url('../Fontmoueum/Goedam/HakgyoansimDungR.woff2') format('woff2'); }
 @font-face {
 font-family: "HangeulJaemin";
 src: url('../Fontmoueum/Goedam/HangeulJaemin.woff2') format('woff2'); }
-
-
-
-/* 본고딕 300 */
-@font-face {
-font-family: "NotoSans-Light";
-src: url('../Fontmoueum/Goedam/NotoSans-Light.woff2') format('woff2'); }
-
-/* 본고딕 500 */
-@font-face {
-font-family: "NotoSans-Medium";
-src: url('../Fontmoueum/Goedam/NotoSans-Medium.woff2') format('woff2'); }
