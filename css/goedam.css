@@ -133,24 +133,24 @@ src: url('../Fontmoueum/Goedam/BMKkubulimR.woff2') format('woff2'); }
 
 /* 본고딕 300 */
 @font-face {
-font-family: "NotoSansKR300";
+font-family: "NotoSansKR-Light";
 font-weight: 300;
 font-style: normal;
-src: url('../Fontmoueum/Goedam/NotoSansKR300.woff2') format('woff2'); }
+src: url('../Fontmoueum/Goedam/NotoSansKR-Light.woff2') format('woff2'); }
 
 /* 본고딕 400 */
 @font-face {
-font-family: "NotoSansKR400";
+font-family: "NotoSansKR-Regular";
 font-weight: 400;
 font-style: normal;
-src: url('../Fontmoueum/Goedam/NotoSansKR400.woff2') format('woff2'); }
+src: url('../Fontmoueum/Goedam/NotoSansKR-Regular.woff2') format('woff2'); }
 
 /* 본고딕 500 */
 @font-face {
-font-family: "NotoSansKR500";
+font-family: "NotoSansKR-Medium";
 font-weight: 500;
 font-style: normal;
-src: url('../Fontmoueum/Goedam/NotoSansKR500.woff2') format('woff2'); }
+src: url('../Fontmoueum/Goedam/NotoSansKR-Medium.woff2') format('woff2'); }
 
 /* 산하엽 */
 @font-face {
