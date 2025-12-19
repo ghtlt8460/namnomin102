@@ -1,15 +1,15 @@
-/* 코펍 바탕 */
+/* 코펍 월드 바탕 */
 @font-face {
-font-family: "KoPubBatang";
+font-family: "KoPubWorldBatang";
 font-weight: 500;
 font-style: normal;
-src:url('../Fontmoueum/Godikbatang/KoPubBatang.woff2') format('woff2'); }
+src:url('../Fontmoueum/Godikbatang/KoPubWorldBatangMedium.woff2') format('woff2'); }
 
 @font-face {
-font-family: "KoPubBatangBold";
+font-family: "KoPubWorldBatang";
 font-weight: 700;
 font-style: normal;
-src:url('../Fontmoueum/Godikbatang/KoPubBatangBold.woff2') format('woff2'); }
+src:url('../Fontmoueum/Godikbatang/KoPubWorldBatangBold.woff2') format('woff2'); }
 
 
 /* 나눔 바른 고딕 */
