@@ -14,16 +14,16 @@ src:url('../Fontmoueum/Godikbatang/KoPubWorldBatangBold.woff2') format('woff2');
 
 /* 나눔 바른 고딕 */
 @font-face {
-font-family: "NanumBarunL";
-font-weight: 300;
-font-style: normal;
-src:url('../Fontmoueum/Godikbatang/NanumBarunGothicLight.woff2') format('woff2'); }
-
-@font-face {
 font-family: "NanumBarun";
 font-weight: 400;
 font-style: normal;
 src:url('../Fontmoueum/Godikbatang/NanumBarunGothic.woff2') format('woff2'); }
+
+@font-face {
+font-family: "NanumBarunL";
+font-weight: 300;
+font-style: normal;
+src:url('../Fontmoueum/Godikbatang/NanumBarunGothicLight.woff2') format('woff2'); }
 
 @font-face {
 font-family: "NanumBarunB";
