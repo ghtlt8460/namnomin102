@@ -1,12 +1,12 @@
 /* 코펍 월드 바탕 */
 @font-face {
-font-family: "KoPubWorldBatang";
+font-family: "KoBatang";
 font-weight: 500;
 font-style: normal;
 src:url('../Fontmoueum/Godikbatang/KoPubWorldBatangMedium.woff2') format('woff2'); }
 
 @font-face {
-font-family: "KoPubWorldBatangBold";
+font-family: "KoBatangB";
 font-weight: 700;
 font-style: normal;
 src:url('../Fontmoueum/Godikbatang/KoPubWorldBatangBold.woff2') format('woff2'); }
@@ -14,19 +14,19 @@ src:url('../Fontmoueum/Godikbatang/KoPubWorldBatangBold.woff2') format('woff2');
 
 /* 나눔 바른 고딕 */
 @font-face {
-font-family: "NanumBarunGothicLight";
+font-family: "NanumBarunL";
 font-weight: 300;
 font-style: normal;
 src:url('../Fontmoueum/Godikbatang/NanumBarunGothicLight.woff2') format('woff2'); }
 
 @font-face {
-font-family: "NanumBarunGothic";
+font-family: "NanumBarun";
 font-weight: 400;
 font-style: normal;
 src:url('../Fontmoueum/Godikbatang/NanumBarunGothic.woff2') format('woff2'); }
 
 @font-face {
-font-family: "NanumBarunGothicBold";
+font-family: "NanumBarunB";
 font-weight: 700;
 font-style: normal;
 src:url('../Fontmoueum/Godikbatang/NanumBarunGothicBold.woff2') format('woff2'); }
@@ -34,7 +34,7 @@ src:url('../Fontmoueum/Godikbatang/NanumBarunGothicBold.woff2') format('woff2');
 
 /* 나눔 바른 고딕 옛한글 */
 @font-face {
-font-family: "NanumBarunGothicYH";
+font-family: "NanumBarunYH";
 font-weight: 400;
 font-style: normal;
 src:url('../Fontmoueum/Godikbatang/NanumBarunGothic-YetHangul.woff2') format('woff2'); }
@@ -48,8 +48,7 @@ font-style: normal;
 src:url('../Fontmoueum/Godikbatang/NanumGothic.woff2') format('woff2'); }
 
 @font-face {
-font-family: "NanumGothicBold";
+font-family: "NanumGothicB";
 font-weight: 700;
 font-style: normal;
 src:url('../Fontmoueum/Godikbatang/NanumGothicBold.woff2') format('woff2'); }
-
