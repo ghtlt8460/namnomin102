@@ -259,3 +259,8 @@ src: url('../Fontmoueum/Goedam/HakgyoansimDungR.woff2') format('woff2'); }
 @font-face {
 font-family: "HangeulJaemin";
 src: url('../Fontmoueum/Goedam/HangeulJaemin.woff2') format('woff2'); }
+
+/* 만년설체 */
+@font-face {
+font-family: "Mannyeonseol";
+src: url('../Fontmoueum/Goedam/Mannyeonseol.woff2') format('woff2'); }
