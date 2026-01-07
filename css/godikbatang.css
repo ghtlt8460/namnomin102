@@ -52,3 +52,19 @@ font-family: "NanumGothicB";
 font-weight: 700;
 font-style: normal;
 src:url('../Fontmoueum/Godikbatang/NanumGothicBold.woff2') format('woff2'); }
+
+
+/* 나눔 스퀘어 네오 고딕 */
+@font-face {
+font-family: "NanumSquareNeoR";
+font-weight: 400;
+font-style: normal;
+src:url('../Fontmoueum/Godikbatang/NanumGothic.woff2') format('woff2'); }
+
+
+/* 넥슨 Lv.1 고딕 */
+@font-face {
+font-family: "NEXONLvG1R";
+font-weight: normal;
+font-style: normal;
+src:url('../Fontmoueum/Godikbatang/NanumGothicBold.woff2') format('woff2'); }
