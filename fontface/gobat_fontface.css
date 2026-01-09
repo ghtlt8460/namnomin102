@@ -5,16 +5,23 @@
 /* 코펍 바탕 */
 { font-family: "KoPubBatang", serif; }
 
+/* 바탕 */
+{ font-family: "RIDIBatang"; /*리디바탕*/ }
+{ font-family: "MaruBuriR"; /*마루부리*/ }
+
 /* 나눔 바른 고딕 */
-{ font-family: "NanumBarunGothic", sans-serif; }
-{ font-family: "NanumBarunGothicBold", sans-serif; }
-{ font-family: "NanumBarunGothicLight", sans-serif; }
+{ font-family: "NanumBarun", sans-serif; }
+{ font-family: "NanumBarunL", sans-serif; }
+{ font-family: "NanumBarunB", sans-serif; }
 
 /* 나눔 바른 고딕 옛한글 */
-.{ font-family: "NanumBarunGothicYH", sans-serif; }
+.{ font-family: "NanumBarunYH", sans-serif; }
 
 /* 나눔 고딕 */
 { font-family: "NanumGothic", sans-serif; }
-{ font-family: "NanumGothicBold", sans-serif; }
+{ font-family: "NanumGothicB", sans-serif; }
+
+/* 나눔 스퀘어 네오 고딕 */
+{ font-family: "NanumSquareNeoR", sans-serif; }
 
 */
