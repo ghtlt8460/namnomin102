@@ -1,13 +1,3 @@
-/* 마루부리 */
-@font-face {
-font-family: "MaruBuriRegular";
-src: url('../Fontmoueum/Songeulssi/MaruBuriRegular.woff2') format('woff2'); }
-
-/* 리디바탕 */
-@font-face {
-font-family: "RIDIBatang";
-src: url('../Fontmoueum/Songeulssi/RIDIBatang.woff2') format('woff2'); }
-
 /* 김남윤체 */
 @font-face {
 font-family: "KimNamyun";
