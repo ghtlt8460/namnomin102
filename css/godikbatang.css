@@ -17,14 +17,14 @@ src:url('../Fontmoueum/Godikbatang/KoPubWorldBatangBold.woff2') format('woff2');
 font-family: "MaruBuriR";
 font-weight: 400;
 font-style: normal;
-src: url('../Fontmoueum/Songeulssi/MaruBuriR.woff2') format('woff2'); }
+src: url('../Fontmoueum/Godikbatang/MaruBuriR.woff2') format('woff2'); }
 
 /* 리디바탕 */
 @font-face {
 font-family: "RIDIBatang";
 font-weight: 400;
 font-style: normal;
-src: url('../Fontmoueum/Songeulssi/RIDIBatang.woff2') format('woff2'); }
+src: url('../Fontmoueum/Godikbatang/RIDIBatang.woff2') format('woff2'); }
 
 
 /* 나눔 바른 고딕 */
