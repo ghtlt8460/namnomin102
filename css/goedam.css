@@ -162,10 +162,15 @@ src: url('../Fontmoueum/Goedam/Sanhayeop.woff2') format('woff2'); }
 font-family: "SolmoeKimdaegeonM";
 src: url('../Fontmoueum/Goedam/SolmoeKimdaegeonM.woff2') format('woff2'); }
 
-/* 순바탕체 */
+/* 순바탕체L */
 @font-face {
 font-family: "SunBatangL";
 src: url('../Fontmoueum/Goedam/SunBatangL.woff2') format('woff2'); }
+
+/* 순바탕체M */
+@font-face {
+font-family: "SunBatangM";
+src: url('../Fontmoueum/Goedam/SunBatangM.woff2') format('woff2'); }
 
 /* 스위트 */
 @font-face {
