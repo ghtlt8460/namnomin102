@@ -100,3 +100,8 @@ src: url('../Fontmoueum/Songeulssi/UhBeeQUEENJ.woff2') format('woff2'); }
 @font-face {
 font-family: "UhBeeRami";
 src: url('../Fontmoueum/Songeulssi/UhBeeRami.woff2') format('woff2'); }
+
+/*윤초록우산어린이 대한*/
+@font-face {
+font-family: "YoonDaeHan"; /*윤초록우산어린이 대한*/
+src: url('../Fontmoueum/Songeulssi/YoonDaeHan.woff2') format('woff2'); }
