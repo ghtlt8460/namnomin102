@@ -61,6 +61,11 @@ src: url('../Fontmoueum/Goedam/GabiaGosranR.woff2') format('woff2'); }
 font-family: "GabiaMaeumgyeol";
 src: url('../Fontmoueum/Goedam/GabiaMaeumgyeol.woff2') format('woff2'); }
 
+/* 가비아 청연체 */
+@font-face {
+font-family: "GabiaCheongyeon";
+src: url('../Fontmoueum/Goedam/GabiaCheongyeon.woff2') format('woff2'); }
+
 /* 고운돋움 */
 @font-face {
 font-family: "GowunDodumR";
@@ -120,6 +125,11 @@ src: url('../Fontmoueum/Goedam/MapoBackpacking.woff2') format('woff2'); }
 @font-face {
 font-family: "Macho";
 src: url('../Fontmoueum/Goedam/Macho.woff2') format('woff2'); }
+
+/* 만년설체 */
+@font-face {
+font-family: "Mannyeonseol";
+src: url('../Fontmoueum/Goedam/Mannyeonseol.woff2') format('woff2'); }
 
 /* 박물관문화재단클래식 */
 @font-face {
@@ -264,8 +274,3 @@ src: url('../Fontmoueum/Goedam/HakgyoansimDungR.woff2') format('woff2'); }
 @font-face {
 font-family: "HangeulJaemin";
 src: url('../Fontmoueum/Goedam/HangeulJaemin.woff2') format('woff2'); }
-
-/* 만년설체 */
-@font-face {
-font-family: "Mannyeonseol";
-src: url('../Fontmoueum/Goedam/Mannyeonseol.woff2') format('woff2'); }
