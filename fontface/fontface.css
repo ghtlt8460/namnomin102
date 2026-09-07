@@ -1,7 +1,11 @@
 /*
 
-/* 코펍 바탕 */
+/* 코펍 월드 바탕 */
 font-family: "KoBatang", serif;
+
+/* 코펍 월드 돋움 */
+font-family: "KoDotum300", sans-serif;
+font-family: "KoDotum500", sans-serif;
 
 /* 바탕 */
 font-family: "MaruBuriRegular"; /*마루부리*/
@@ -21,6 +25,10 @@ font-family: "NanumGothicB", sans-serif;
 
 /* 나눔 스퀘어 네오 고딕 */
 font-family: "NanumSquareNeoR";
+
+font-family: "NotoSansKR300"; /*본고딕3*/
+font-family: "NotoSansKR400"; /*본고딕4*/
+font-family: "NotoSansKR500"; /*본고딕5*/
 
 
 /*손글씨*/
@@ -78,9 +86,6 @@ font-family: "Macho"; /*마초*/
 font-family: "Mannyeonseol"; /*만년설체*/
 font-family: "GungnipClassicM"; /*박물관클래식*/
 font-family: "BMKkubulimR"; /*배달민족 꾸불림*/
-font-family: "NotoSansKR-Light"; /*본고딕300*/
-font-family: "NotoSansKR-Regular"; /*본고딕400*/
-font-family: "NotoSansKR-Medium"; /*본고딕500*/
 font-family: "Sanhayeop"; /*산하엽*/
 font-family: "SolmoeKimdaegeonM"; /*솔뫼 김대건*/
 font-family: "SunBatangL"; /*순바탕L*/
@@ -95,9 +100,9 @@ font-family: "JoseonSinmyeongjo"; /*조선신명조*/
 font-family: "ChungjuKimSaeng"; /*충주김생*/
 font-family: "PyeongchangB"; /*평창*/
 font-family: "Freesentation200"; font-weight: 200; /*프리젠테이션*/
-font-family: "Pretendard300"; /*프리텐다드*/
-font-family: "Pretendard400"; /*프리텐다드*/
-font-family: "Pretendard500"; /*프리텐다드*/
+font-family: "Pretendard300"; /*프리텐다드3*/
+font-family: "Pretendard400"; /*프리텐다드4*/
+font-family: "Pretendard500"; /*프리텐다드5*/
 font-family: "Tenada"; /*태나다*/
 font-family: "HakgyoansimByeolB"; /*학교안심 별빛하늘*/
 font-family: "HakgyoansimDungR"; /*학교안심 둥근미소*/
