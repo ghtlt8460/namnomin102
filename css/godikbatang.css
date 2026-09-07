@@ -43,13 +43,13 @@ src:url('../Fontmoueum/Godikbatang/NanumBarunGothic.woff2') format('woff2'); }
 font-family: "NanumBarunL";
 font-weight: 300;
 font-style: normal;
-src:url('../Fontmoueum/Godikbatang/NanumBarunGothicLight.woff2') format('woff2'); }
+src:url('../Fontmoueum/Godikbatang/NanumBarunGothicL.woff2') format('woff2'); }
 
 @font-face {
 font-family: "NanumBarunB";
 font-weight: 700;
 font-style: normal;
-src:url('../Fontmoueum/Godikbatang/NanumBarunGothicBold.woff2') format('woff2'); }
+src:url('../Fontmoueum/Godikbatang/NanumBarunGothicB.woff2') format('woff2'); }
 
 
 /* 나눔 바른 고딕 옛한글 */
@@ -71,7 +71,7 @@ src:url('../Fontmoueum/Godikbatang/NanumGothic.woff2') format('woff2'); }
 font-family: "NanumGothicB";
 font-weight: 700;
 font-style: normal;
-src:url('../Fontmoueum/Godikbatang/NanumGothicBold.woff2') format('woff2'); }
+src:url('../Fontmoueum/Godikbatang/NanumGothicB.woff2') format('woff2'); }
 
 
 /* 나눔 스퀘어 네오 고딕 */
