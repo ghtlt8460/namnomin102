@@ -13,12 +13,16 @@ src:url('../Fontmoueum/Godikbatang/KoPubWorldBatangB.woff2') format('woff2'); }
 
 /* 코펍 월드 돋움 */
 @font-face {
-font-family: "KoDotum300";
-src:url('../Fontmoueum/Godikbatang/KoPubWorldDotumL.woff2') format('woff2'); }
+font-family: "KoDotum500";
+font-weight: 500;
+font-style: normal;
+src:url('../Fontmoueum/Godikbatang/KoPubWorldDotumM.woff2') format('woff2'); }
 
 @font-face {
-font-family: "KoDotum500";
-src:url('../Fontmoueum/Godikbatang/KoPubWorldDotumM.woff2') format('woff2'); }
+font-family: "KoDotum300";
+font-weight: 300;
+font-style: normal;
+src:url('../Fontmoueum/Godikbatang/KoPubWorldDotumL.woff2') format('woff2'); }
 
 
 /* 마루부리 */
@@ -87,18 +91,18 @@ src:url('../Fontmoueum/Godikbatang/NanumSquareNeoR.woff2') format('woff2'); }
 font-family: "NotoSansKR300";
 font-weight: 300;
 font-style: normal;
-src: url('../Fontmoueum/Goedam/NotoSansKR300.woff2') format('woff2'); }
+src: url('../Fontmoueum/Godikbatang/NotoSansKR300.woff2') format('woff2'); }
 
 /* 본고딕 400 */
 @font-face {
 font-family: "NotoSansKR400";
 font-weight: 400;
 font-style: normal;
-src: url('../Fontmoueum/Goedam/NotoSansKR400.woff2') format('woff2'); }
+src: url('../Fontmoueum/Godikbatang/NotoSansKR400.woff2') format('woff2'); }
 
 /* 본고딕 500 */
 @font-face {
 font-family: "NotoSansKR500";
 font-weight: 500;
 font-style: normal;
-src: url('../Fontmoueum/Goedam/NotoSansKR500.woff2') format('woff2'); }
+src: url('../Fontmoueum/Godikbatang/NotoSansKR500.woff2') format('woff2'); }
