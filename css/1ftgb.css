@@ -14,7 +14,7 @@ font-weight: 700;
 font-style: normal;
 src: url('../ft-box/1ftgb/KoPubWorldBatangB.woff2') format('woff2'); }
 
-/* 2. 코펍월드 돋움 */
+/* 코펍월드 돋움 */
 @font-face {
 font-family: "KoDotum300";
 font-weight: 300;
@@ -28,7 +28,7 @@ font-style: normal;
 src: url('../ft-box/1ftgb/KoPubWorldDotumM.woff2') format('woff2'); }
 
 
-/* 마루 부리 */
+/* 마루부리 */
 @font-face {
 font-family: "MaruBuriR";
 font-weight: 400;
