@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+/* ft-moa.css 전체 통합 */
+
+@import url("1ftgb.css");
+@import url("2hand.css");
+@import url("3gdam.css");
+
+
+/*
+css @import url 확인용
+
+css 통합 임포터
+@import url("https://ghtlt8460.github.io/pl-ppu/css/ft-moa.css");
+
+개별 임포터
+@import url("https://ghtlt8460.github.io/pl-ppu/css/1ftgb.css");
+@import url("https://ghtlt8460.github.io/pl-ppu/css/2hand.css");
+@import url("https://ghtlt8460.github.io/pl-ppu/css/3gdam.css");
+
+*/
