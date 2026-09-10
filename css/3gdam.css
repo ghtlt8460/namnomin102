@@ -189,6 +189,11 @@ src: url('../ft-box/3gdam/JeonjuWanpanbonR.woff2') format('woff2'); }
 font-family: "Joseon100Nyeon";
 src: url('../ft-box/3gdam/Joseon100Nyeon.woff2') format('woff2'); }
 
+/* 조선견고딕 */
+@font-face {
+font-family: "ChosunGyeon";
+src: url('../ft-box/3gdam/ChosunGyeon.woff2') format('woff2'); }
+
 /* 조선궁서체 */
 @font-face {
 font-family: "JoseonGungseo";
